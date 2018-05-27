@@ -39,4 +39,6 @@ LOCAL_PACKAGE_NAME := Jelly
 
 LOCAL_PROGUARD_FLAG_FILES := ../../proguard-rules.pro
 
+LOCAL_OVERRIDES_PACKAGES := ViaBrowser
+
 include $(BUILD_PACKAGE)
